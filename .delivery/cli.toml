@@ -1,0 +1,7 @@
+server = "10.63.227.112"
+api_protocol = "https"
+user = "ngowda"
+enterprise = "dev-automate"
+organization = "learn2"
+git_port = "8989"
+pipeline = "automatedev"
