@@ -1,4 +1,4 @@
-name 'learn_chef_httpd'
+name 'chef_httpd'
 maintainer 'ngowda'
 maintainer_email 'you@example.com'
 license 'all_rights'
