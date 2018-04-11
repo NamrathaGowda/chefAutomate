@@ -4,9 +4,9 @@
 # Author: ngowda
 #
 # Copyright (c) 2016 The Authors, All Rights Reserved.
-package 'httpd'
+package 'nginx'
 
-service 'httpd' do
+service 'nginx' do
   action [:enable, :start]
 end
 
