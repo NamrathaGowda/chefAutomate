@@ -1,7 +1,0 @@
-server = "xxxx"
-api_protocol = "https"
-user = "ngowda"
-enterprise = "dev-automate"
-organization = "testLearn"
-git_port = "8989"
-pipeline = "learnautomate"
